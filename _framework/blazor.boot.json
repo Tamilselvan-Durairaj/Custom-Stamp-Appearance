@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CustomStampSample",
   "resources": {
-    "hash": "sha256-UJxEC7jnH711OCDpqnvDAdUVl6B/YI+CkM7+xLY9qR8=",
+    "hash": "sha256-R9FJ+zxDr7flhkkvxCVy9qGKdrwrx81bRGs3uoaqcbc=",
     "jsModuleNative": {
       "dotnet.native.8.0.3.5o0c9sefm1.js": "sha256-9HuMzEApJA1ELmFZGvqVZQuNl1kTDEA//DK0lf9pRaI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "CustomStampSample.wasm": "sha256-royp6P5GaLfYu7SU0KbeQ2KfsbR4wJe6XflJ1IDKYac=",
+      "CustomStampSample.wasm": "sha256-RACyU0QWPW4jQmAbBC+ng3niI7j5t4dAW5WtFTuqBYI=",
       "HarfBuzzSharp.wasm": "sha256-KXauNFpQiwGenKPcqBnYyDMgKUIguCqVQM5yIAHaJtw=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-4TFetdhpNyA5ApU987BLn6S/5Ym+9POgNNoAgCX1hkA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-XDP/yMWyr8LJEurl9ZMA+sGCk4EBKZCNvlfSvICiGII=",
